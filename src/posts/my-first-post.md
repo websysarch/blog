@@ -59,7 +59,7 @@ You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 
 This web site is using `markedjs/marked`.
 
-```asn
+```html
 graph TD;
     A-->B;
     A-->C;
