@@ -2,6 +2,10 @@
 
 ### WSA Blog
 
+- Manage Site At [Netlify App](https://app.netlify.com/sites/wsa-blog/overview)
+- Add more content at [Admin](https://blog.websysarch.com/admin)
+
+
 ### Technologies used:
 
 - [Netlify CMS](https://www.netlifycms.org/)
